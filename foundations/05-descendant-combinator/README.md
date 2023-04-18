@@ -1,3 +1,4 @@
+<font size="4">
 # Descendant Combinator
 Understanding how combinators work can become a lot easier when you start playing around with them and see what exactly is affected by them versus what isn't.
 
@@ -16,3 +17,4 @@ The properties you need to add are:
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+</font>
