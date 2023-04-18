@@ -1,3 +1,5 @@
+<font size="4">
+
 # Grouping Selectors
 
 Let's build a little off the previous exercise, in which you (hopefully) added multiple classes to a single element in order to apply two different rules to it.
@@ -18,3 +20,4 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+</font>
