@@ -1,3 +1,4 @@
+<font size="4">
 # CSS Methods
 This final exercise for CSS Foundations is going to give you a closer look at the cascade, in particular specificity and rule order. Both the HTML and CSS files are filled out for you, so instead of adding rules yourself, you will simply be editing what is provided.
 
@@ -15,3 +16,4 @@ Issues with the cascade can be the bane of their existence for many when it come
 - If you added selectors to the CSS, do they target a valid HTML element?
 
 _Note: for accessibility reasons, the style in this exercise has changed. For new and old students, we propose to carry out the exercise noting how important it is to pay attention to the accessibility of the web, and we encourage more and more practices like this._
+</font>
