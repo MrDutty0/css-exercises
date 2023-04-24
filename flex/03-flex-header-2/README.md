@@ -1,3 +1,4 @@
+<font size=5>
 # Another common header style
 
 We're starting to sneak in a little more CSS that you haven't seen yet. Don't worry about this for now; we just want things to look a little bit prettier, and this CSS will not interfere with your task.
@@ -19,3 +20,4 @@ As with the last example, this one needs to be flexible in the middle, with item
 - Items are arranged horizontally as seen in the outcome image.
 - There is 16px between each item on both sides of the header.
 - flex is used to arrange everything.
+</flex>
