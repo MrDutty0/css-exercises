@@ -1,3 +1,4 @@
+<font size=4>
 # The Holy Grail of Layout
 
 In this last flexbox exercise you're going to recreate an incredibly common website layout. It is so common that it is often called the [Holy Grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout... and with flexbox it is actually pretty easy to pull off.
@@ -31,3 +32,4 @@ On a smaller screen it will look like this:
 - The sidebar has 16px padding.
 - There is 32px padding around the 'cards' section.
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
+</font>
